@@ -8,7 +8,7 @@ Mohammed Alhawamdeh
 
 ### Links and Resources
 
-- [submission PR](http://xyz.com)
+- [submission PR](https://github.com/Mohammed-401-advanced-javascript/Lab-13/pull/1)
 - [ci/cd](http://xyz.com) (GitHub Actions)
 - [back-end server url](http://xyz.com) (when applicable)
 - [front-end application](http://xyz.com) (when applicable)
@@ -18,7 +18,8 @@ Mohammed Alhawamdeh
 #### `.env` requirements (where applicable)
 
 i.e.
-
+- `CLIENT_ID`=66065e9b3ee1887bceba
+- `CLIENT_SECRET`=b7c611819dd17aa5f19fd34eb3ad34feb4af596b
 - `PORT` - 3000
 - `MONGODB_URI` - URL to the running mongo instance/db
 
